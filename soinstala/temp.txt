@@ -1,0 +1,67 @@
+ava disponivel!
+ava disponivel!
+CLIENTE 000 solicitou 0 e obteve 0
+CLIENTE 002 solicitou 2 e obteve 2
+CLIENTE 003 solicitou 3 e obteve 3
+CLIENTE 004 solicitou 4 e obteve 4
+CLIENTE 006 solicitou 4 e obteve 4
+CLIENTE 007 solicitou 3 e obteve 3
+CLIENTE 008 solicitou 2 e obteve 0
+CLIENTE 009 solicitou 1 e obteve 0
+CLIENTE 010 solicitou 0 e obteve 2
+CLIENTE 011 solicitou 0 e obteve 1
+CLIENTE 012 solicitou 1 e obteve 1
+CLIENTE 013 solicitou 2 e obteve 2
+CLIENTE 015 solicitou 4 e obteve 4
+CLIENTE 016 solicitou 5 e obteve 2
+CLIENTE 017 solicitou 4 e obteve 4
+CLIENTE 018 solicitou 3 e obteve 3
+CLIENTE 021 solicitou 0 e obteve 1
+CLIENTE 023 solicitou 1 e obteve 0
+CLIENTE 024 solicitou 2 e obteve 5
+CLIENTE 025 solicitou 3 e obteve 3
+CLIENTE 028 solicitou 4 e obteve 4
+CLIENTE 029 solicitou 3 e obteve 3
+CLIENTE 030 solicitou 2 e obteve 4
+CLIENTE 031 solicitou 1 e obteve 1
+CLIENTE 032 solicitou 0 e obteve 3
+CLIENTE 033 solicitou 0 e obteve 1
+CLIENTE 034 solicitou 1 e obteve 0
+CLIENTE 035 solicitou 2 e obteve 2
+CLIENTE 041 solicitou 2 e obteve 2
+CLIENTE 042 solicitou 1 e obteve 1
+CLIENTE 043 solicitou 0 e obteve 2
+CLIENTE 044 solicitou 0 e obteve 0
+CLIENTE 046 solicitou 2 mas nao estava disponivel!
+CLIENTE 049 solicitou 5 e obteve 5
+CLIENTE 050 solicitou 4 e obteve 0
+CLIENTE 051 solicitou 3 e obteve 3
+CLIENTE 052 solicitou 2 mas nao estCLIENTE 045 solicitou 1 e obteve 1
+CLIENTE 053 solicitou 1 e obteve 1
+CLIENTE 054 solicitou 0 mas nao estava disponivel!
+CLIENTE 057 solicitou 2 e obteve 4
+CLIENTE 058 solicitou 3 e obteve 3
+CLIENTE 059 solicitou 4 e obteve 4
+CLIENTE 060 solicitou 5 e obteve 5
+CLIENTE 061 solicitou 4 e obteve 4
+CLIENTE 062 solicitou 3 mas nao estava disponivel!
+CLIENTE 068 solicitou 2 mas nao estava disponivel!
+CLIENTE 069 solicitou 3 e obteve 1
+CLIENTE 070 solicitou 4 e obteve 4
+CLIENTE 074 solicitou 2 mas nao estava disponivel!
+CLIENTE 077 solicitou 0 mas nao estava disponivel!
+CLIENTE 078 solicitou 1 mas nao estava disponivel!
+CLIENTE 080 solicitou 3 mas nao estava disponivel!
+CLIENTE 082 solicitou 5 mas nao estava disponivel!
+CLIENTE 083 solicitou 4 mas nao estava disponivel!
+CLIENTE 084 solicitou 3 mas nao estava disponivel!
+CLIENTE 085 solicitou 2 mas nao estava disponivel!
+CLIENTE 086 solicitou 1 mas nao estava disponivel!
+Clientes     : 88
+Clientes atendidos pelos instaladores : 65
+Clientes atendidos pelos rececionistas: 88
+Instaladores : 03
+Rececionistas: 02
+Stock final  : 00 00 00 00 00 00 = 00
+Stock inicial: 10 12 08 14 15 06 = 65
+TOTAL instalacoes   : 10 12 08 14 15 06 = 65
